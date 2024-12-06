@@ -1,7 +1,4 @@
-# llama3.2-basic-RAG
-A Streamlit app that converts natural language queries into SQL, executes them on a SQLite database, and provides human-readable insights using Llama 3.2 vision from Ollama
-
-# Patient Database Explorer
+# Basic Patient Database Explorer (RAG) -> llama3.2 Vision
 
 A simple Streamlit application that enables users to ask natural language questions about a patient database. The app processes the user's query, converts it to SQL using a large language model (LLM), executes the query on a SQLite database, and synthesizes the results into a natural language response.
 
